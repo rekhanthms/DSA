@@ -1,6 +1,8 @@
-package Patterns.java;
+package Patterns;
 
 public class Adavance_pattern {
+    
+    //# BUTTERFLY
     public static void main(String args[]){
         int n=5;
         for(int i=1;i<=n;i++){
@@ -28,5 +30,5 @@ public class Adavance_pattern {
             System.err.println();
         }
     }
-    
+    //#endregion
 }
